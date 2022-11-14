@@ -275,8 +275,6 @@
 }
 
 .awards__img {
-    width: 200px;
-    height: 60px;
     position: relative;
 }
 
@@ -368,6 +366,10 @@
     left: 0;
     background: rgba(125, 151, 218, 0.8);
     display: none;
+}
+
+.modal .checkbox-label {
+    letter-spacing: -0.35px;
 }
 
 .modal__form {
